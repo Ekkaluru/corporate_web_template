@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "heading": "Empowering Businesses for Success: Your Partner in Growth",
+    "subheading": "Lorem ipsum dolor sit amet consectetur. Semper tristique id nunc amet iaculis vulputate faucibus egestas."
+  },
+  "services": [
+    {
+      "id": 1,
+      "title": "Web Development",
+      "description": "Lorem ipsum dolor sit amet consectetur. Semper tristique id nunc amet iaculis vulputate faucibus egestas. Nulla libero massa mauris eget nunc leo semper tempus egestas."
+    },
+    {
+      "id": 2,
+      "title": "Mobile App Development",
+      "description": "Lorem ipsum dolor sit amet consectetur. Semper tristique id nunc amet iaculis vulputate faucibus egestas. Nulla libero massa mauris eget nunc leo semper tempus egestas."
+    },
+    {
+      "id": 3,
+      "title": "Digital Marketing",
+      "description": "Lorem ipsum dolor sit amet consectetur. Semper tristique id nunc amet iaculis vulputate faucibus egestas. Nulla libero massa mauris eget nunc leo semper tempus egestas."
+    },
+    {
+      "id": 4,
+      "title": "SEO",
+      "description": "Lorem ipsum dolor sit amet consectetur. Semper tristique id nunc amet iaculis vulputate faucibus egestas. Nulla libero massa mauris eget nunc leo semper tempus egestas."
+    },
+    {
+      "id": 5,
+      "title": "Content Writing",
+      "description": "Lorem ipsum dolor sit amet consectetur. Semper tristique id nunc amet iaculis vulputate faucibus egestas. Nulla libero massa mauris eget nunc leo semper tempus egestas."
+    },
+    {
+      "id": 6,
+      "title": "Graphics Design",
+      "description": "Lorem ipsum dolor sit amet consectetur. Semper tristique id nunc amet iaculis vulputate faucibus egestas. Nulla libero massa mauris eget nunc leo semper tempus egestas."
+    }
+  ],
+  "about": {
+    "title": "About us",
+    "description": "Lorem ipsum dolor sit amet consectetur. Semper tristique id nunc amet iaculis vulputate faucibus egestas. Nulla libero massa mauris eget nunc leo semper tempus egestas.Lorem ipsum dolor sit amet consectetur. Semper tristique id nunc amet iaculis vulputate faucibus egestas. Nulla libero massa mauris eget nunc leo semper tempus egestas.Lorem ipsum dolor sit amet consectetur. Lorem ipsum dolor sit amet consectetur. Semper tristique id nunc amet iaculis vulputate faucibus egestas. Nulla libero massa mauris eget nunc leo semper tempus egestas.Lorem ipsum dolor sit amet consectetur. Semper tristique id nunc amet iaculis vulputate faucibus egestas. Nulla libero massa mauris eget nunc leo semper tempus egestas.Lorem ipsum dolor sit amet consectetur."
+  },
+  "contactUs": {
+    "address": "3517 W. Gray St, Utica, PA 57867, United States",
+    "phone": "(302) 555-0107",
+    "email": "michelle.rivera@example.com"
+  },
+  "footer": {
+    "text": "Lorem ipsum dolor sit amet consectetur. Semper tristique id nunc amet iaculis vulputate faucibus egestas. Nulla libero massa mauris eget nunc leo semper tempus egestas.",
+    "facebookLink": "https://www.facebook.com/",
+    "twitterLink": "https://twitter.com/",
+    "linkedinLink": "https://www.linkedin.com/"
+  },
+  "email": {
+    "serviceId": "your-emailJs-service-id",
+    "templateId": "your-emailJs-template-id",
+    "userId": "your-emailJs-user-id"
+  }
+}
